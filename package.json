@@ -1,0 +1,13 @@
+{
+  "name": "openai-book-summarizer",
+  "version": "1.0.0",
+  "description": "A simple backend to summarize books with OpenAI API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.0.0",
+    "openai": "^4.0.0"
+  }
+}
